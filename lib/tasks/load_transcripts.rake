@@ -39,10 +39,12 @@ namespace :pandorica do
               char, quote = line.split(':', 2)
               puts line if quote.blank? or char.strip.blank?
               unless quote.nil?
-                character = Character.find_or_create_by_name(char.titleize)
+                character = Character.find_or_create_by_name(char.strip.chomp.titleize)
                 character.save!
-                ep.characters << character
-                quote = Quote.new(:text => quote.chomp,
+
+                ep.characters << character unless ep.characters.include?(character)
+
+                quote = Quote.new(:text => quote.strip.chomp,
                                   :character_id => character.id,
                                   :episode_id => ep.id)
                 quote.save!
