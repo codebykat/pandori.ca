@@ -37,14 +37,25 @@ namespace :pandorica do
           else
             unless line.index(':').nil?
               char, quote = line.split(':', 2)
-              puts line if quote.blank? or char.strip.blank?
-              unless quote.nil?
-                character = Character.find_or_create_by_name(char.strip.chomp.titleize)
+              char = char.strip.chomp.titleize
+              quote = quote.strip.chomp
+
+              # kill evil unicode characters
+              chars = quote.unpack("U*")
+              if chars.include?(160)
+                chars.delete(160)
+                quote = chars.pack("U*")
+              end
+
+              if quote.blank? or char.blank?
+                puts line
+              else
+                character = Character.find_or_create_by_name(char)
                 character.save!
 
                 ep.characters << character unless ep.characters.include?(character)
 
-                quote = Quote.new(:text => quote.strip.chomp,
+                quote = Quote.new(:text => quote,
                                   :character_id => character.id,
                                   :episode_id => ep.id)
                 quote.save!
