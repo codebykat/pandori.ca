@@ -22,5 +22,11 @@ Pandorica::Application.configure do
 
   # Only use best-standards-support built into browsers
   config.action_dispatch.best_standards_support = :builtin
+
+  PAPERCLIP_OPTIONS = {
+    #:url => "/public/images/characters/:name-:id.:extension"
+    #:path => ":rails_root/public/images/characters/:name-:id.:extension"
+  }
+
 end
 
