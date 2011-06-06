@@ -41,5 +41,9 @@ module Pandorica
 
     # directory where transcripts live
     config.transcript_directory = "data/transcripts"
+
+    config.generators do |g|
+      g.template_engine :haml
+    end
   end
 end

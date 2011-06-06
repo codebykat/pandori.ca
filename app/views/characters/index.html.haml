@@ -1,0 +1,7 @@
+%h2 pandori.ca character dossiers
+
+- @characters.each do |character|
+  %div
+    = link_to character.name, character_url(character.friendly_id)
+
+

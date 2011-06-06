@@ -1,0 +1,17 @@
+%h2 #{@episode.name}
+
+.episode-info
+  %strong Original Air Date:
+  = @episode.airdate
+  %br
+  %strong Transcript Source:
+  = link_to @episode.source, @episode.source
+
+%br
+
+.episode-characters
+  %strong Characters:
+  %ul
+    - @episode.characters.each do |character|
+      %li
+        = link_to character.name, character_url(character.friendly_id)

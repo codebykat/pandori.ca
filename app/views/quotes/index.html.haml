@@ -1,0 +1,4 @@
+- @quotes.each do |quote|
+  .quote
+    = link_to quote.character.name, character_url(quote.character.friendly_id)
+    \: #{quote.text}

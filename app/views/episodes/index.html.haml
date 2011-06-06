@@ -1,0 +1,7 @@
+%h2 pandori.ca: episode list
+
+- @episodes.each do |episode|
+  %div
+    = link_to episode.name, episode_url(episode.id)
+    = episode.airdate
+

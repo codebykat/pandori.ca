@@ -1,0 +1,17 @@
+%h2 character dossier: #{@character.name}
+
+.character-photos
+  - @character.character_images.each do |photo|
+    = photo.url
+
+.dossier-info
+  %strong First Appearance:
+  #{@character.episodes.first.name}
+  (#{@character.episodes.first.airdate})
+
+.episode-list
+  %strong Episodes (#{@character.episodes.count}):
+  %ul
+    - @character.episodes.each do |ep|
+      %li
+        = ep.name
