@@ -6,6 +6,7 @@ class CharactersController < ApplicationController
   def show
     @character = Character.find(params[:id])
     @random_quote = @character.quotes.find(:first, :offset => rand(@character.quotes.count))
+    @character.character_images.build
   end
 
   def update
@@ -24,7 +25,8 @@ class CharactersController < ApplicationController
     if @character.update_attributes(params[:character])
       flash[:notice] = "successfully updated character."
     #else
-    #render :action => 'edit'
+    #render :action => 'show'
+    redirect_to :action => 'show'
     end
   end
 end

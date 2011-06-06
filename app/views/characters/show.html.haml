@@ -11,11 +11,11 @@
     - if @character.character_images.empty?
       No images yet.
     - @character.character_images.each do |photo|
-      = photo.url
+      = image_tag photo.photo.url
 
     = form_for @character, :html => {:multipart => true} do |f|
       %p
-        = f.fields_for @character.character_images.build do |builder|
+        = f.fields_for :character_images do |builder|
           = builder.label :photo, "image"
           = builder.file_field :photo
       %p
