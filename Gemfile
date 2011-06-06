@@ -3,8 +3,10 @@ source 'http://rubygems.org'
 gem 'rails', '~>3.0.0'
 gem 'unicorn', '~>3.6.2'
 
+gem 'friendly_id', '~>3.2.1'
 gem 'haml', '~>3.0.25'
-gem 'jammit', '~>0.6.0'
+gem 'haml-rails'
+#gem 'jammit', '~>0.6.0'
 gem 'mysql2', '~>0.2.7'
 
 gem 'rake', '0.8.7'

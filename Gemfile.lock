@@ -1,10 +1,6 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    POpen4 (0.1.4)
-      Platform (>= 0.4.0)
-      open4
-    Platform (0.4.0)
     abstract (1.0.0)
     actionmailer (3.0.7)
       actionpack (= 3.0.7)
@@ -34,14 +30,20 @@ GEM
     activesupport (3.0.7)
     archive-tar-minitar (0.5.2)
     arel (2.0.10)
+    babosa (0.3.4)
     builder (2.1.2)
     columnize (0.3.2)
     erubis (2.6.6)
       abstract (>= 1.0.0)
+    friendly_id (3.2.1.1)
+      babosa (~> 0.3.0)
     haml (3.0.25)
+    haml-rails (0.3.4)
+      actionpack (~> 3.0)
+      activesupport (~> 3.0)
+      haml (~> 3.0)
+      railties (~> 3.0)
     i18n (0.5.0)
-    jammit (0.6.3)
-      yui-compressor (>= 0.9.3)
     kgio (2.4.1)
     linecache19 (0.5.12)
       ruby_core_source (>= 0.1.4)
@@ -52,7 +54,6 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.16)
     mysql2 (0.2.7)
-    open4 (1.0.1)
     paperclip (2.3.11)
       activerecord (>= 2.3.0)
       activesupport (>= 2.3.2)
@@ -93,15 +94,14 @@ GEM
     unicorn (3.6.2)
       kgio (~> 2.3)
       rack
-    yui-compressor (0.9.6)
-      POpen4 (>= 0.1.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  friendly_id (~> 3.2.1)
   haml (~> 3.0.25)
-  jammit (~> 0.6.0)
+  haml-rails
   mysql2 (~> 0.2.7)
   paperclip (~> 2.3.11)
   rails (~> 3.0.0)
