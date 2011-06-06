@@ -74,21 +74,21 @@ ROSE: So, history's happening and we're stuck here.
 NINTH DOCTOR: Yes, we are.
 ROSE: We could always do what everybody else does.
 ROSE: We could watch it on TV.
-NEWS READER: Big Ben destroyed as a UFO crash lands in Central London. Police reinforcements are drafted in from across the country to control wide-spread panic, looting and civil disturbance. A state of national emergency has been declared. Tom Hitchinson is at the scene.
+NEWSREADER: Big Ben destroyed as a UFO crash lands in Central London. Police reinforcements are drafted in from across the country to control wide-spread panic, looting and civil disturbance. A state of national emergency has been declared. Tom Hitchinson is at the scene.
 REPORTER: The police urge the public not to panic. There's a help line number on screen right now if you're worried about friends or family.
-NEWS READER: The military are on the lookout for more spaceships. Until then, all flights in North American air space have been grounded.
+NEWSREADER: The military are on the lookout for more spaceships. Until then, all flights in North American air space have been grounded.
 REPORTER: The army are sending divers into the wreck of the spaceship. No one knows what they're going to find.
-NEWS READER: The President will address the nation live from the White House. But the Secretary General has asked that people watch the skies.
+NEWSREADER: The President will address the nation live from the White House. But the Secretary General has asked that people watch the skies.
 JACKIE: I've got no choice! I'm not going to make him welcome.
 NINTH DOCTOR: Oi! I'm trying to listen!
-NEWS READER: ... his current whereabouts. News is just coming in, we can go to Tom at the embankments.
+NEWSREADER: ... his current whereabouts. News is just coming in, we can go to Tom at the embankments.
 REPORTER: They've found a body.
 REPORTER: It's unconfirmed but I'm being told a body has been found in the wreckage. A body of non-terrestrial origins. It's being brought ashore.
 JACKIE: Oh, guess who asked me out - Billy Crewe.
-NEWS READER: Unconfirmed reports say that the body is of extra-terrestrial origin. An extraordinary event unfolding here live here in Central London. The body is being transferred to a secure unit mortuary. The whereabouts is yet unknown.
+NEWSREADER: Unconfirmed reports say that the body is of extra-terrestrial origin. An extraordinary event unfolding here live here in Central London. The body is being transferred to a secure unit mortuary. The whereabouts is yet unknown.
 BLUE PETER PRESENTER: And when you've stuck your things on, you can cover the whole lot...
 BLUE PETER PRESENTER: Ooo, look at that. Then, ice it, any colour you want - here's one I made a little bit earlier - look at that. Your very own spaceship ready to eat. And there's something a little extra special--
-NEWS READER: ... in hospital.
+NEWSREADER: ... in hospital.
 REPORTER: We still don't know whether it's alive or dead. Whitehall is denying everything. But the body has been brought here, Albian Hospital, the roads closed off - it's the closest to the river.
 NINTH DOCTOR: Go on!
 REPORTER: I'm being told that... General Asquith is now entering the hospital. The building's evacuated. The patients have been moved out onto the streets. The police still won't confirm the presence of an alien body. Contained inside those walls...
@@ -194,7 +194,7 @@ RU: So it's a fake. A pretend. Like the mermaid. But the technology augmenting i
 RU: Doctor? 
 RU: Doctor?
 JACKIE: Here's to the Martians! 
-EVERYONE: The Martians! 
+#EVERYONE: The Martians! 
 ROSE: I was gonna come and see ya.
 WOMAN: Someone owes Mickey an apology. 
 ROSE: I'm sorry. 

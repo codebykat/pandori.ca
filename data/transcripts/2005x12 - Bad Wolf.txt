@@ -1,24 +1,25 @@
 # 1x12: Bad Wolf
+# original airdate: 6/11/2005
 # source: http://who-transcripts.atspace.com/2005/transcripts/112_badwolf.html
 
-THE DOCTOR: What is it? What's happening?
+NINTH DOCTOR: What is it? What's happening?
 LYNDA: Oh my God!
 LYNDA: I don't BELIEVE it! Why'd they put you in there?? They never said you were coming!
-THE DOCTOR: But what happened? I was... 
+NINTH DOCTOR: But what happened? I was... 
 LYNDA: Careful now... oh! 
 LYNDA: Oh! Mind yourself! Oh, that's the transmat. Scrambles your head - I was sick for days.
 LYNDA: You all right?
 LYNDA: So! What's your name then, sweetheart?
-THE DOCTOR: The Doctor, I think. I was er... I don't know, what happened? How--
+NINTH DOCTOR: The Doctor, I think. I was er... I don't know, what happened? How--
 LYNDA: You got chosen.
-THE DOCTOR: Chosen for what?
+NINTH DOCTOR: Chosen for what?
 LYNDA: You're a house mate. You're in the house! Isn't that brilliant?!
 STROOD: That's not fair.
 STROOD: We've got eviction in five minutes! I've been here for all nine weeks, I've followed the rules, I haven't had a single warning, and then he comes swanning in.
 CROSBIE: If they keep changing the rules, I'm gonna protest, I am. You just watch me, I'm - I'm gonna paint the walls.
 BIG BROTHER: Would the Doctor please come to the Diary Room?
 BIG BROTHER: You are live on channel forty-four-thousand. Please do not swear.
-THE DOCTOR: You have GOT to be kidding.
+NINTH DOCTOR: You have GOT to be kidding.
 ROSE: What happened?
 RODERICK: It's all right... it's the transmat. Does your head in. 
 RODERICK: Get a bit of amnesia. What's your name?
@@ -55,31 +56,31 @@ JACK: Okay... Defabricator. Does exactly what it says on the tin. Am I naked in 
 TRIN-E: Absolutely!
 ZU-ZANA: Absolutely!
 JACK: Ladies... your viewing figures just went up. 
-THE DOCTOR: I can't open it. 
+NINTH DOCTOR: I can't open it. 
 LYNDA: It's got a deadlock seal. Ever since Big Brother Five Hundred and Four when they all walked out...? 
 LYNDA: You MUST remember that. 
-THE DOCTOR: What about this?
+NINTH DOCTOR: What about this?
 LYNDA: Oh, that's exoglass. You'd need a nuclear bomb to get through. 
-THE DOCTOR: Don't tempt me. 
+NINTH DOCTOR: Don't tempt me. 
 LYNDA: I know you're not supposed to talk about the outside world, but you must've been watching. Do people like me? Lynda with a Y, not Linda with an I - she got forcibly evicted because she damaged the camera. 
 LYNDA: Am I popular? 
-THE DOCTOR: I don't remember. 
+NINTH DOCTOR: I don't remember. 
 LYNDA: Oh, but does that mean I'm nothing? Some people get this far just 'cos they're insignificant. Doesn't anybody notice me? 
-THE DOCTOR: No... you're... you're nice. You're sweet. Everybody thinks you're sweet. 
+NINTH DOCTOR: No... you're... you're nice. You're sweet. Everybody thinks you're sweet. 
 LYNDA: Oh! Is that right? Is that what I am? Oh, no-one's ever told me that before. Am I sweet? Really?
-THE DOCTOR: Yeah. Dead sweet!
+NINTH DOCTOR: Yeah. Dead sweet!
 LYNDA: Thank you! 
-THE DOCTOR: It's just a wall - isn't there supposed to be a garden out there? 
+NINTH DOCTOR: It's just a wall - isn't there supposed to be a garden out there? 
 LYNDA: Don't be daft. No-one's got a garden anymore. Who's got a garden? Don't tell me YOU'VE got a garden!
-THE DOCTOR: No, I've just got the TARDIS... I remember. 
+NINTH DOCTOR: No, I've just got the TARDIS... I remember. 
 LYNDA: That's the amnesia! So what happened? Where did they get you?
-THE DOCTOR: We'd just left Raxacoriofallapatorius. Then we went to Kyoto, that's right. Japan in 1336, and we only just escaped...
-THE DOCTOR: We were together, we were laughing, and then... there was this light...
-THE DOCTOR: ... this white light coming through the walls, and then...
-THE DOCTOR: And then I woke up here. 
+NINTH DOCTOR: We'd just left Raxacoriofallapatorius. Then we went to Kyoto, that's right. Japan in 1336, and we only just escaped...
+NINTH DOCTOR: We were together, we were laughing, and then... there was this light...
+NINTH DOCTOR: ... this white light coming through the walls, and then...
+NINTH DOCTOR: And then I woke up here. 
 LYNDA: Yeah, that's the transmat beam. That's how they pick the housemates. 
-THE DOCTOR: Oh, Lynda with a Y... sweet little Lynda... It's worse than that.
-THE DOCTOR: I'm not just a passing traveller. No stupid little transmat gets inside my ship. That beam was fifteen million times more powerful, which means... this isn't just a game. There's something else going on. Well! Here's the latest update from the Big Brother house. I'm getting out. I'm gonna find my friends. And then I'm gonna find YOU. 
+NINTH DOCTOR: Oh, Lynda with a Y... sweet little Lynda... It's worse than that.
+NINTH DOCTOR: I'm not just a passing traveller. No stupid little transmat gets inside my ship. That beam was fifteen million times more powerful, which means... this isn't just a game. There's something else going on. Well! Here's the latest update from the Big Brother house. I'm getting out. I'm gonna find my friends. And then I'm gonna find YOU. 
 MALE PROGRAMMER: Need a word.
 FEMALE PROGRAMMER: Hold on... let me finish this. 
 FEMALE PROGRAMMER: 19... 18... 
@@ -96,7 +97,7 @@ ANNE DROID: Correct. Fitch - in the Pan Traffic Calendar, which month comes afte
 FITCH: Is it... Clavadoe?
 ANNE DROID: No, Pandoff. Rose, in maths, what is 258 minus 158?
 ROSE: One hundred!
-ANNE DROID: Correct. RODERICK -
+ANNE DROID: Correct. Roderick -
 RODERICK: Bank. 
 ANNE DROID: Which letter of the alphabet appears in the word 'dangle' but not in the word 'gland'?
 RODERICK: E.
@@ -113,7 +114,7 @@ ANNE DROID: No, red. Rose - in the holovid series 'Jupiter Rising', the Grexnik 
 ROSE: How should I know?
 ANNE DROID: No, the correct answer is Lord Drayvole.
 FEMALE PROGRAMMER: Why's she laughing?
-ANNE DROID: RODERICK - in maths, what is nine squared?
+ANNE DROID: Roderick - in maths, what is nine squared?
 FEMALE PROGRAMMER: Oh, my God... I don't think she knows...
 MALE PROGRAMMER: And I've got a housemate to appear out of nowhere. I told you - it's like the game's running itself.
 TRIN-E: It's the buccaneer look. Little dash of pirate and just a tweak of President Schwarzenegger. 
@@ -154,9 +155,9 @@ ANNE DROID: You are the weakest link.
 ANNE DROID: Goodbye.
 RODERICK: Don't try to escape. It's play... or die.
 LYNDA: Doctor, they said ALL the housemates must gather on the sofa. You've got to. 
-THE DOCTOR: Busy getting out, thanks.
+NINTH DOCTOR: Busy getting out, thanks.
 LYNDA: But if you don't obey, then ALL the housemates get punished. 
-THE DOCTOR: Well maybe I'll be voted out, then. 
+NINTH DOCTOR: Well maybe I'll be voted out, then. 
 STROOD: How stupid are you? You've only just joined, you're not eligible.
 LYNDA: Don't try anything clever or we all get it in the neck.
 BIG BROTHER: Big Brother House - this is Davina Droid.
@@ -174,13 +175,13 @@ BIG BROTHER: Crosbie, please leave the Big Brother House.
 CROSBIE: Bye, then... bye Lynda...
 LYNDA: Bye…
 LYNDA: I don't believe it. Poor Crosbie...
-THE DOCTOR: It's only a game show, she'll make a fortune on the outside! Sell her story, release a record, fitness video, all of that... she'll be laughing!
+NINTH DOCTOR: It's only a game show, she'll make a fortune on the outside! Sell her story, release a record, fitness video, all of that... she'll be laughing!
 LYNDA: What d'you mean, 'on the outside'? 
 STROOD: Here we go... 
-THE DOCTOR: Well, what are they waiting for? Why don't they just let her go? 
+NINTH DOCTOR: Well, what are they waiting for? Why don't they just let her go? 
 LYNDA: Stop it, it's not funny. 
 BIG BROTHER: Eviction in... 5... 4... 3... 2... 1! 
-THE DOCTOR: What was that? 
+NINTH DOCTOR: What was that? 
 STROOD: Disintegrator beam. 
 LYNDA: She's been evicted. From life. 
 MALE PROGRAMMER: No one programmed the transmat, no one selected the new contestants... it is exactly like those stories.
@@ -192,21 +193,21 @@ FEMALE PROGRAMMER: But the Controller would know. She watches everything. 
 MALE PROGRAMMER: Maybe she just can't see it. Gotta allow for human error.
 FEMALE PROGRAMMER: Well, that's your problem, then. I don't think she's been human for years.
 CONTROLLER: 18... 19... 20... 21... 22... 23... transmit. 
-THE DOCTOR: Are you INSANE? You just step right into the disintegrator? Is it that important, getting your face on the telly? Is it worth DYING for? 
+NINTH DOCTOR: Are you INSANE? You just step right into the disintegrator? Is it that important, getting your face on the telly? Is it worth DYING for? 
 LYNDA: You're talking like we've got a choice! 
-THE DOCTOR: But I thought you had to apply! 
+NINTH DOCTOR: But I thought you had to apply! 
 STROOD: Don't be so stupid. That's how they played it centuries back. 
 LYNDA: You get chosen whether you like it or not! Everyone on Earth is a potential contestant. The transmat beam picks you out at random. And it's non-stop. There are sixty Big Brother houses running all at once. 
-THE DOCTOR: How many? SIXTY?
+NINTH DOCTOR: How many? SIXTY?
 STROOD: They've had to cut back. It's not what it was. 
-THE DOCTOR: It's a CHARNEL house! What about the winners? What do they get? 
+NINTH DOCTOR: It's a CHARNEL house! What about the winners? What do they get? 
 LYNDA: They get to live.
-THE DOCTOR: Is that it?!
+NINTH DOCTOR: Is that it?!
 LYNDA: Well, isn't that enough?!
-THE DOCTOR: Rose is out there. She got caught in the transmat. She's a contestant. Time I got out. 
-THE DOCTOR: That other contestant - Lynda with an I - she was forcibly evicted for what?
+NINTH DOCTOR: Rose is out there. She got caught in the transmat. She's a contestant. Time I got out. 
+NINTH DOCTOR: That other contestant - Lynda with an I - she was forcibly evicted for what?
 LYNDA: Damaged property...
-THE DOCTOR: What, like this?
+NINTH DOCTOR: What, like this?
 JACK: No. I'm just not getting this. It just too safe - too decent. And you'd never keep it clean.
 ZU-ZANA: Stage Two ready and waiting! 
 JACK: Bring it on, girls!
@@ -236,68 +237,68 @@ RODERICK: I dunno, it's just a name. It's like an Old Earth... nursery rhyme sor
 ROSE: I keep hearing those words everywhere we go. Bad Wolf. 
 GWYNETH: The things you've seen... the darkness... the big bad wolf--
 TANNOY VOICE: Attention all personnel - Bad Wolf One descending.
-THE DOCTOR: Blaidd Drwg... 
+NINTH DOCTOR: Blaidd Drwg... 
 ROSE: What's it mean?
-THE DOCTOR: Bad Wolf.
+NINTH DOCTOR: Bad Wolf.
 ROSE: Different times... different places like it's written all over the universe... 
 RODERICK: What're you going on about?
 ROSE: If the Bad Wolf is in charge of this quiz, then... maybe I'm not here by mistake. Someone's been planning this...
 BIG BROTHER: The Doctor - you've broken the House Rules. 
 BIG BROTHER: Big Brother has no choice but to evict you. 
 BIG BROTHER: You have ten seconds to make your farewells, and then we're gonna get you!
-THE DOCTOR: That's more like it! Come on then, open up! 
+NINTH DOCTOR: That's more like it! Come on then, open up! 
 LYNDA: You're mad! It's like you WANT to die! 
 STROOD: I reckon he's a plant! He was only brought in to stir things up! 
 BIG BROTHER: The Doctor - please leave the Big Brother house. 
-THE DOCTOR: Come on then, disintegrate me! Come on, what're you waiting for?
+NINTH DOCTOR: Come on then, disintegrate me! Come on, what're you waiting for?
 LYNDA: He is, he's mad. He's bonkers. 
-THE DOCTOR: Disintegrate me!
+NINTH DOCTOR: Disintegrate me!
 FEMALE PROGRAMMER: I told you to keep an eye on him, not KILL him. 
 MALE PROGRAMMER: He damaged the property. It's an automatic process. 
 BIG BROTHER: Eviction in 5... 4... 3... 2... 1...
-THE DOCTOR: Haha!
-THE DOCTOR: I knew it! You see? Someone BROUGHT me into this game. If they'd wanted me dead, they could've transmatted me into a volcano. 
+NINTH DOCTOR: Haha!
+NINTH DOCTOR: I knew it! You see? Someone BROUGHT me into this game. If they'd wanted me dead, they could've transmatted me into a volcano. 
 FEMALE PROGRAMMER: What did you do?
 MALE PROGRAMMER: Nothing! 
-THE DOCTOR: They want me alive--
+NINTH DOCTOR: They want me alive--
 MALE PROGRAMMER: It's like... some sort of override. 
-THE DOCTOR: Maybe the security isn't as tight this end. Are you following this? I'm getting out! 
-THE DOCTOR: Come with me.
+NINTH DOCTOR: Maybe the security isn't as tight this end. Are you following this? I'm getting out! 
+NINTH DOCTOR: Come with me.
 STROOD: We're not allowed!
-THE DOCTOR: Stay in there - you've got a fifty-fifty chance of disintegration. Stay with me - I promise I'll get you out alive. Come on!
+NINTH DOCTOR: Stay in there - you've got a fifty-fifty chance of disintegration. Stay with me - I promise I'll get you out alive. Come on!
 LYNDA: No-- I can't, I can't... 
-THE DOCTOR: Lynda, you're sweet. From what I've seen of your world, d'you think anyone votes for sweet? 
-THE DOCTOR: Hold on... I've been here before. This is Satellite Five!
-THE DOCTOR: No guards. That makes a change. You'd think a big business like Satellite Five would be armed to the teeth. 
+NINTH DOCTOR: Lynda, you're sweet. From what I've seen of your world, d'you think anyone votes for sweet? 
+NINTH DOCTOR: Hold on... I've been here before. This is Satellite Five!
+NINTH DOCTOR: No guards. That makes a change. You'd think a big business like Satellite Five would be armed to the teeth. 
 LYNDA: No one's called it Satellite Five in ages. It's the Game Station now. Hasn't been Satellite Five in about a hundred years. 
-THE DOCTOR: A hundred years exactly. It's the year two zero-zero/one zero-zero. I was here before. Floor 139. Satellite was broadcasting news channels back then... had a bit of trouble upstairs. Nothing too serious. Easy - gave 'em a hand - home in time for tea.
+NINTH DOCTOR: A hundred years exactly. It's the year two zero-zero/one zero-zero. I was here before. Floor 139. Satellite was broadcasting news channels back then... had a bit of trouble upstairs. Nothing too serious. Easy - gave 'em a hand - home in time for tea.
 LYNDA: A hundred years ago? 
 LYNDA: What, you were here a hundred years ago? 
-THE DOCTOR: Yep! 
+NINTH DOCTOR: Yep! 
 LYNDA: You're looking good on it... 
-THE DOCTOR: I moisturise. 
-THE DOCTOR: Funny sorts of readings. All kinds of energy... the place is humming. It's weird. This goes way beyond normal transmissions. What would they need all that power for? 
+NINTH DOCTOR: I moisturise. 
+NINTH DOCTOR: Funny sorts of readings. All kinds of energy... the place is humming. It's weird. This goes way beyond normal transmissions. What would they need all that power for? 
 LYNDA: I dunno. I think we're the first ever contestants to get outside. 
-THE DOCTOR: I had two friends traveling with me. They must've got caught in the same transmat. Where would they be?
+NINTH DOCTOR: I had two friends traveling with me. They must've got caught in the same transmat. Where would they be?
 LYNDA: I dunno. They could've been allocated anywhere. There's a hundred different games. 
-THE DOCTOR: Like what? 
+NINTH DOCTOR: Like what? 
 LYNDA: Well, there's ten floors of 'Big Brother'. There's a different House behind each of those doors. And then beyond that, there's all sorts of shows. It's non-stop. There's um... 'Call My Bluff'... with real guns... 'Countdown', where you've got thirty seconds to stop the bomb going off... 'Ground Force', which is a nasty one... you get turned into compost. Erm... 'Wipeout', speaks for itself... oh! And 'Stars In Their Eyes'. Literally, stars in their eyes. If you don't sing, you get blinded. 
-THE DOCTOR: And you watch this stuff? 
+NINTH DOCTOR: And you watch this stuff? 
 LYNDA: Everyone does. How come you don't? 
-THE DOCTOR: Never paid for my license. 
+NINTH DOCTOR: Never paid for my license. 
 LYNDA: Oh, my God! You get executed for that! 
-THE DOCTOR: Let them try. 
+NINTH DOCTOR: Let them try. 
 LYNDA: You keep saying things that don't make sense. But who are you though, Doctor? Really? 
-THE DOCTOR: Doesn't matter. 
+NINTH DOCTOR: Doesn't matter. 
 LYNDA: Well, it does to me... I've just put my life in your hands. 
-THE DOCTOR: I'm just a traveller, wandering past. Believe it or not, all I'm after is a quiet life. 
+NINTH DOCTOR: I'm just a traveller, wandering past. Believe it or not, all I'm after is a quiet life. 
 LYNDA: So... if we get out of here, what're you gonna do? Just... wander off again? 
-THE DOCTOR: Fast as I can.
+NINTH DOCTOR: Fast as I can.
 LYNDA: So... I could come with ya. 
-THE DOCTOR: Maybe you could. 
+NINTH DOCTOR: Maybe you could. 
 LYNDA: I wouldn't get in the way. 
-THE DOCTOR: I wouldn't mind if you did. Not a bad idea, Lynda with a Y. 
-THE DOCTOR: But first of all, we've gotta concentrate on the getting out. And to do that, you've got to know your enemy - who's controlling it - who's in charge of the satellite now? 
+NINTH DOCTOR: I wouldn't mind if you did. Not a bad idea, Lynda with a Y. 
+NINTH DOCTOR: But first of all, we've gotta concentrate on the getting out. And to do that, you've got to know your enemy - who's controlling it - who's in charge of the satellite now? 
 LYNDA: Hold on...
 LYNDA: Your Lords and Masters. 
 MALE PROGRAMMER: Okay, you win. The Controller's got to handle this. The Archive makes a record of all transmat activities. 
@@ -318,49 +319,49 @@ CONTROLLER: Archive Six is out of bounds. No one may enter Archive Six. Return t
 JACK: Compatible systems... just align the wave signature... Thattaboy! Got myself a gun. Well, ladies, the pleasure was all mine. Which is the only thing that matters in the end.
 JACK: Two hearts, that's him... which floor?
 LYNDA: Blimey! I've never seen it for real before! Not... not from orbit. Planet Earth...
-THE DOCTOR: What's happened to it?  
+NINTH DOCTOR: What's happened to it?  
 LYNDA: Well, it's always been like that. Ever since I was born. See that there? That's the Great Atlantic Smog Storm. It's been going twenty years. We get newsflashes telling us when it's safe to breathe outside. 
-THE DOCTOR: So, the population just sits there? Half the world's too fat, half the world's too thin, and you lot just watch telly? 
+NINTH DOCTOR: So, the population just sits there? Half the world's too fat, half the world's too thin, and you lot just watch telly? 
 LYNDA: Ten thousand channels, all beaming down from here. 
-THE DOCTOR: The Human Race. Brainless sheep. Being fed on a diet of... mind you, have they still got that programme where three people have to live with a bear? 
+NINTH DOCTOR: The Human Race. Brainless sheep. Being fed on a diet of... mind you, have they still got that programme where three people have to live with a bear? 
 LYNDA: Oh, 'Bear With Me', I LOVE that one! 
-THE DOCTOR: And me. The celebrity edition where the bear got in the--
+NINTH DOCTOR: And me. The celebrity edition where the bear got in the--
 LYNDA: Got in the bath!
-THE DOCTOR: But it's all gone wrong. I mean, HISTORY'S gone wrong. Again. This should be the Fourth Great and Bountiful Human Empire - I don't understand. Last time I was here, I put it right. 
+NINTH DOCTOR: But it's all gone wrong. I mean, HISTORY'S gone wrong. Again. This should be the Fourth Great and Bountiful Human Empire - I don't understand. Last time I was here, I put it right. 
 LYNDA: No, but that's when it first went wrong. A hundred years ago, like you said. All the news channels - they just shut down overnight. 
-THE DOCTOR: But that was me. I did that. 
+NINTH DOCTOR: But that was me. I did that. 
 LYNDA: There was nothing left in their place. No information. The whole planet just froze. The government - the economy - they collapsed... that was the start of it. One hundred years of hell. 
-THE DOCTOR: Oh, my... I made this world. 
-ANNE DROID: That leaves Rose and RODERICK - you're going head-to-head... let's play 'The Weakest Link'. 
+NINTH DOCTOR: Oh, my... I made this world. 
+ANNE DROID: That leaves Rose and Roderick - you're going head-to-head... let's play 'The Weakest Link'. 
 RODERICK: Right, that's the end of tactical voting... you're on your own now. 
 JACK: Hey, handsome! Good to see ya! Any sign of Rose? 
-THE DOCTOR: Can't you track her down? 
+NINTH DOCTOR: Can't you track her down? 
 JACK: She must still be inside the games. All the rooms are shielded. 
-THE DOCTOR: If we can just get inside this computer... she's GOT to be here somewhere. 
+NINTH DOCTOR: If we can just get inside this computer... she's GOT to be here somewhere. 
 JACK: Well, you'd better hurry up. These games don't have a happy ending. 
-THE DOCTOR: You think I don't know that? 
+NINTH DOCTOR: You think I don't know that? 
 JACK: There you go. 
 JACK: Patch that in. It's programmed to find her. 
-THE DOCTOR: Thanks.
+NINTH DOCTOR: Thanks.
 JACK: Hey there!
 LYNDA: Hello! 
 JACK: Captain Jack Harkness. 
 LYNDA: Lynda Moss. 
 JACK: Nice to meet you, Lynda Moss!
-THE DOCTOR: D'you mind flirting outside?
+NINTH DOCTOR: D'you mind flirting outside?
 JACK: I was just saying hello! 
-THE DOCTOR: For you, that's flirting. 
+NINTH DOCTOR: For you, that's flirting. 
 LYNDA: I'm not complaining. 
 JACK: Which is a good idea. 
 LYNDA: Oh!
-THE DOCTOR: It's not compatible. This stupid system doesn't make sense. 
-THE DOCTOR: This place should be a basic broadcaster. The systems are twice as complicated. It's more than just television... this station's transmitting something else. 
+NINTH DOCTOR: It's not compatible. This stupid system doesn't make sense. 
+NINTH DOCTOR: This place should be a basic broadcaster. The systems are twice as complicated. It's more than just television... this station's transmitting something else. 
 JACK: Like what?
-THE DOCTOR: I don't know. This whole Bad Wolf thing's tied up with me. Someone's manipulating my entire life. It's some sort of trap and Rose is stuck inside it. 
+NINTH DOCTOR: I don't know. This whole Bad Wolf thing's tied up with me. Someone's manipulating my entire life. It's some sort of trap and Rose is stuck inside it. 
 ANNE DROID: Rose, in geography, the Grand Central Ravine is named after which Ancient Britain City?
 ROSE: Is it York? 
 ANNE DROID: No, the correct answer is Sheffield. 
-THE DOCTOR: Found her! Floor 407!
+NINTH DOCTOR: Found her! Floor 407!
 LYNDA: Oh, my God! She's with the Anne Droid! You've gotta get her out of there! 
 ANNE DROID: Roderick, in literature, the author of 'Lucky' was Jackie who? 
 RODERICK: Stewart. 
@@ -368,7 +369,7 @@ ANNE DROID: No, the correct answer is Collins. 
 ANNE DROID: Rose, the oldest inhabitant of the Isop Galaxy is the Face of what? 
 ROSE: Boe! The Face of Boe! 
 ANNE DROID: That is the correct answer. 
-THE DOCTOR: Come on... come on...!
+NINTH DOCTOR: Come on... come on...!
 ANNE DROID: Roderick, in history, who was the President of the Red Velvets? 
 RODERICK: Hoshbin Frane. 
 ANNE DROID: That is the correct answer. 
@@ -383,26 +384,26 @@ ANNE DROID: Rose, in fashion, Stella Pok Baint is famous for what? 
 ROSE: Shoes. 
 ANNE DROID: No. The correct answer is hats. 
 ANNE DROID: Roderick, in physics, who discovered the Fifteen-Dash-Ten Barric Fields? 
-THE DOCTOR: Game Room Six, which one is it?!
+NINTH DOCTOR: Game Room Six, which one is it?!
 LYNDA: Over here! 
 RODERICK: San... Hazeldine. 
 ANNE DROID: No...
 ANNE DROID: ... the correct answer is San Chen. 
 JACK: Stand back, let me blast it open. 
-THE DOCTOR: Can't, it's made of Hydra Combination. 
+NINTH DOCTOR: Can't, it's made of Hydra Combination. 
 ANNE DROID: Rose, in history, which Icelandic city hosted Murder Spree Twenty?
 ROSE: Reykjavik…?
 ANNE DROID: No, the correct answer is Pola Ventura. 
 RODERICK: Oh, my God! I've done it! You've lost! 
-THE DOCTOR: Come on, come on, come on... 
+NINTH DOCTOR: Come on, come on, come on... 
 ROSE: But I'm not meant to be here. I need to find the Doctor, he's got to be here somewhere-- he's always here! He wouldn't just leave me! 
 ANNE DROID: Roderick, you are the strongest link, you will be transported home with one thousand six hundred credits.
 RODERICK: Oh, thank you, thank you so much. 
 ROSE: This game is illegal! I'm telling you to stop! 
-THE DOCTOR: Rose!
+NINTH DOCTOR: Rose!
 ANNE DROID: Rose, you leave this life with nothing--
 JACK: Stop this game! 
-THE DOCTOR: I order you to stop this game! 
+NINTH DOCTOR: I order you to stop this game! 
 FLOOR MANAGER: We're live on air!
 ANNE DROID: You are the weakest link. 
 ROSE: Look out for the Anne Droid, it's armed!
@@ -419,141 +420,141 @@ SECURITY GUARD: I'm asking HIM.
 SECURITY GUARD: Sir? Can you tell us who you are? 
 SECURITY GUARD: You will be taken from this place to the Lunar Penal Colony, there to be held without trial, you may not appeal against this sentence. 
 SECURITY GUARD: Is that understood? 
-THE DOCTOR: Let's do it. 
+NINTH DOCTOR: Let's do it. 
 MALE PROGRAMMER: Oh, my God. Now we're in trouble. 
-THE DOCTOR: Floor 500. 
+NINTH DOCTOR: Floor 500. 
 MALE PROGRAMMER: Clear the floor! He's on his way up here. With a gun! 
 FEMALE PROGRAMMER: This is an emergency! You've got to close the lift!
 CONTROLLER: All staff are reminded that solar flares commence in delta point two-
 MALE PROGRAMMER: Never mind solar flares! He's gonna KILL you! 
 JACK: Okay! Move away from the desk! Nobody try anything clever. Everybody clear!
 JACK: Stand to the sides. And stay there. 
-THE DOCTOR: Who's in charge of this place? 
+NINTH DOCTOR: Who's in charge of this place? 
 CONTROLLER: ... 18... 19... 20... 
-THE DOCTOR: This Satellite's more than a Game Station.
+NINTH DOCTOR: This Satellite's more than a Game Station.
 CONTROLLER: 79... 
-THE DOCTOR: Who killed Rose Tyler? 
+NINTH DOCTOR: Who killed Rose Tyler? 
 CONTROLLER: All staff are reminded that solar flares--
-THE DOCTOR: I want an answer! 
+NINTH DOCTOR: I want an answer! 
 CONTROLLER: ... in delta point one. 
 MALE PROGRAMMER: She can't reply.
 MALE PROGRAMMER: Don't shoot! 
-THE DOCTOR: Oh, don't be so thick. Like I was ever gonna shoot. 
-THE DOCTOR: Captain, we've got more guards on the way up. Secure the exits. 
+NINTH DOCTOR: Oh, don't be so thick. Like I was ever gonna shoot. 
+NINTH DOCTOR: Captain, we've got more guards on the way up. Secure the exits. 
 JACK: Yes, sir! 
-THE DOCTOR: You - what were you saying?
+NINTH DOCTOR: You - what were you saying?
 MALE PROGRAMMER: But... I've got your gun. 
-THE DOCTOR: Okay, so shoot me. Why can't she answer? 
+NINTH DOCTOR: Okay, so shoot me. Why can't she answer? 
 MALE PROGRAMMER: She's, um... Can I put this down? 
-THE DOCTOR: If you want, just hurry up. 
+NINTH DOCTOR: If you want, just hurry up. 
 MALE PROGRAMMER: Thanks. Sorry. Um... the Controller is linked to the transmissions. The entire output goes through her brain - you're not a member of staff so she doesn't recognize your existence.
-THE DOCTOR: What's her name?
+NINTH DOCTOR: What's her name?
 MALE PROGRAMMER: I don't know. She was installed when she was five years old. That's the only life she's ever known.
 JACK: Door's sealed. We should be safe for about ten minutes. 
-THE DOCTOR: Keep an eye on 'em.
+NINTH DOCTOR: Keep an eye on 'em.
 MALE PROGRAMMER: But that stuff you were saying about something going on with the Game Station - I think you're right. 
 MALE PROGRAMMER: Unauthorized transmats... it's been going on for years. 
-THE DOCTOR: Show me.
+NINTH DOCTOR: Show me.
 FEMALE PROGRAMMER: You're not allowed in there! Archive Six is out of bounds! 
 JACK: Do I look like an out-of-bounds sort of guy?
 JACK: What the hell...? 
 CONTROLLER: Solar-flare activity at delta point zero...
 FEMALE PROGRAMMER: If you're not holding us hostage, then open the door and let us out. The staff are terrified. 
-THE DOCTOR: That's the same staff who execute hundreds of contestants every day--
+NINTH DOCTOR: That's the same staff who execute hundreds of contestants every day--
 FEMALE PROGRAMMER: That's not our fault, we're just doing our jobs.
-THE DOCTOR: And with that sentence, you just lost the right to even talk to me. Now back off. 
+NINTH DOCTOR: And with that sentence, you just lost the right to even talk to me. Now back off. 
 MALE PROGRAMMER: That's just the solar-flares. They interfere with the broadcast signal, so this place automatically powers down. Planet Earth gets a few repeats. It's all quite normal.
 CONTROLLER: Doctor...
 FEMALE PROGRAMMER: Doctor?
-THE DOCTOR: Whatever it is, you can wait.
+NINTH DOCTOR: Whatever it is, you can wait.
 FEMALE PROGRAMMER: I think she wants you. 
 CONTROLLER: Doctor... 
 CONTROLLER: Doctor...? Where's the Doctor? 
-THE DOCTOR: I'm here.
+NINTH DOCTOR: I'm here.
 CONTROLLER: Can't see. I'm blind. So blind. All my life, blind. All I can see is numbers, but I saw you. 
-THE DOCTOR: What do you want?
+NINTH DOCTOR: What do you want?
 CONTROLLER: Solar-flares hiding me. They can't hear me-- my-- my masters, they always listen but they can't hear me now. The sun... the sun is so bright... 
-THE DOCTOR: Who are your masters?
+NINTH DOCTOR: Who are your masters?
 CONTROLLER: They wired my head, their name is forbidden. They control my thoughts, my masters... my masters, I had to be careful. They monitor the transmissions but they don't watch the programmes. I could hide you inside the games.
-THE DOCTOR: My friend died inside your games. 
+NINTH DOCTOR: My friend died inside your games. 
 CONTROLLER: Doesn't matter.
-THE DOCTOR: Don't you DARE tell me that. 
+NINTH DOCTOR: Don't you DARE tell me that. 
 CONTROLLER: They've been hiding. My masters, hiding in the dark space, watching and shaping the Earth... so, so, so many years... they've always been there. Guiding humanity, hundreds and hundred of years--
-THE DOCTOR: Who are they? 
+NINTH DOCTOR: Who are they? 
 CONTROLLER: They wait. They plan and grow in numbers, they're strong now. So strong, my masters--
-THE DOCTOR: Who are they? 
+NINTH DOCTOR: Who are they? 
 CONTROLLER: But they speak of you. My masters, they fear the Doctor.
-THE DOCTOR: Tell me! Who are they?
+NINTH DOCTOR: Tell me! Who are they?
 CONTROLLER: 20... 21... 22...
-THE DOCTOR: When's the next solar-flare? 
+NINTH DOCTOR: When's the next solar-flare? 
 MALE PROGRAMMER: Two years time.
-THE DOCTOR: Fat lot of good that is. 
+NINTH DOCTOR: Fat lot of good that is. 
 JACK: Found the TARDIS! 
-THE DOCTOR: We're not leaving now. 
+NINTH DOCTOR: We're not leaving now. 
 JACK: No. But the TARDIS worked it out. 
 JACK: You'll wanna watch this. 
 JACK: Lynda, could you stand over there for me please?
 LYNDA: I-- I just wanna go home.
 JACK: It'll only take a second. Could you stand in that spot, quick as you can? 
 JACK: Everybody watching? Okay... three, two, one-- 
-THE DOCTOR: But you killed her!
+NINTH DOCTOR: But you killed her!
 JACK: Oh, d'you think?  
 LYNDA: ... What the hell was that? 
 JACK: It's a transmat beam. Not a disintegrator - a secondary transmat system. 
 JACK: People don't get killed in the games! They get transported across space! Doctor, Rose is still alive!
 ROSE: It can't be...
 ROSE: But you're dead... I saw you die! 
-THE DOCTOR: She's out there somewhere! 
+NINTH DOCTOR: She's out there somewhere! 
 CONTROLLER: Doctor! 
 CONTROLLER: Co-ordinates five point six point one--
-THE DOCTOR: Don't! The solar flare's gone, they'll hear you! 
+NINTH DOCTOR: Don't! The solar flare's gone, they'll hear you! 
 CONTROLLER: Point four three four-- no my masters, no! I defy you! Sigma seven seven--
 She screams. The Doctor looks up, and the wires she was attached to fall away, empty. There's nothing left but dust.
-THE DOCTOR: They took her. 
+NINTH DOCTOR: They took her. 
 CONTROLLER: Oh, my masters...
 CONTROLLER: You can kill me. For I have brought your destruction. 
 MALE PROGRAMMER: Look, use that. It might contain the final numbers. I kept a log of all the unscheduled transmissions. 
 JACK: Nice... thanks... Captain Jack Harkness, by the way... 
 MALE PROGRAMMER: I'm Davitch Pavale. 
 JACK: Nice to meet you, Davitch Pavale... 
-THE DOCTOR: There's a time and a place. 
+NINTH DOCTOR: There's a time and a place. 
 FEMALE PROGRAMMER: Are you saying this entire set-up's been a disguise all along? 
-THE DOCTOR: Going way back. Installing the Jagrafess a hundred years ago. Someone's been playing a long game. Controlling the Human Race from behind the scenes for generations. 
+NINTH DOCTOR: Going way back. Installing the Jagrafess a hundred years ago. Someone's been playing a long game. Controlling the Human Race from behind the scenes for generations. 
 JACK: Click on this. 
 JACK: The transmat delivers to that point. Right on the edge of the solar system.
 FEMALE PROGRAMMER: There's nothing there. 
-THE DOCTOR: It looks like nothing. 'Cause that's what this satellite does. Underneath the transmission, there's another signal...
+NINTH DOCTOR: It looks like nothing. 'Cause that's what this satellite does. Underneath the transmission, there's another signal...
 MALE PROGRAMMER: Doing what? 
-THE DOCTOR: Hiding whatever's out there. Hiding it from sonar, radar, scanner... 
-THE DOCTOR: There's something sitting right on top of Planet Earth... but it's completely invisible. 
-THE DOCTOR: If I cancel the signal... 
+NINTH DOCTOR: Hiding whatever's out there. Hiding it from sonar, radar, scanner... 
+NINTH DOCTOR: There's something sitting right on top of Planet Earth... but it's completely invisible. 
+NINTH DOCTOR: If I cancel the signal... 
 JACK: That's impossible. I know those ships... they were destroyed. 
-THE DOCTOR: Obviously, they survived. 
+NINTH DOCTOR: Obviously, they survived. 
 LYNDA: Who did? Who are they? 
-THE DOCTOR: Two hundred ships. More than two thousand on board each one. That's just about half a million of them. 
+NINTH DOCTOR: Two hundred ships. More than two thousand on board each one. That's just about half a million of them. 
 MALE PROGRAMMER: Half a million what?
-THE DOCTOR: Daleks. 
+NINTH DOCTOR: Daleks. 
 DALEK: Alert! Alert! We are detected! 
 DALEK: It is the Doctor! He has located us!
 DALEK: Open communications channel! 
 DALEK: The female will stand. Stand! 
 DALEK: I will talk to the Doctor. 
-THE DOCTOR: Oh, will you? That's nice. Hello!
+NINTH DOCTOR: Oh, will you? That's nice. Hello!
 DALEK: The Dalek Stratagem nears completion. The Fleet is almost ready. You will not intervene. 
-THE DOCTOR: Oh, really? Why's that then? 
+NINTH DOCTOR: Oh, really? Why's that then? 
 DALEK: We have your associate. You will obey or she will be exterminated. 
-THE DOCTOR: No. 
+NINTH DOCTOR: No. 
 DALEK: Explain yourself. 
-THE DOCTOR: I said 'no'. 
+NINTH DOCTOR: I said 'no'. 
 DALEK: What is the meaning of this negative?
-THE DOCTOR: It means 'no'. 
+NINTH DOCTOR: It means 'no'. 
 DALEK: But she will be destroyed. 
-THE DOCTOR: No! 'Cos this is what I'm gonna do - I'm gonna rescue her. 
-THE DOCTOR: I'm gonna save Rose Tyler from the middle of the Dalek Fleet, and then I'm gonna save the Earth, and then just to finish off, I'm gonna wipe every last STINKING Dalek outta the sky! 
+NINTH DOCTOR: No! 'Cos this is what I'm gonna do - I'm gonna rescue her. 
+NINTH DOCTOR: I'm gonna save Rose Tyler from the middle of the Dalek Fleet, and then I'm gonna save the Earth, and then just to finish off, I'm gonna wipe every last STINKING Dalek outta the sky! 
 DALEK: But you have no weapons! No defences! No plan! 
-THE DOCTOR: Yeah. And doesn't that scare you to death? Rose?
+NINTH DOCTOR: Yeah. And doesn't that scare you to death? Rose?
 ROSE: Yes, Doctor? 
-THE DOCTOR: I'm coming to get you. 
+NINTH DOCTOR: I'm coming to get you. 
 DALEK: The Doctor is initiating hostile action!
 DALEK: The Stratagem must advance. Begin the invasion of Earth!
 DALEK: The Doctor will be exterminated!

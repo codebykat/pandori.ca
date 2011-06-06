@@ -324,7 +324,7 @@ HARRIET: Harriet Jones, MP for Flydale North. The only elected representative in
 JOSEPH: Victory... should be naked!
 ROSE: How do we get out?
 NINTH DOCTOR: We don't. We stay here. 
-NEWS READER: The counsel is voting. The results should be known any second now. 
+NEWSREADER: The counsel is voting. The results should be known any second now. 
 NINTH DOCTOR: Use the buffalo password, it overrides everything. 
 JACKIE: What're you doing?
 MICKEY: Hacking into the Royal Navy. 
@@ -356,8 +356,8 @@ SERGEANT: Everybody out! Now! Get out!
 JOSEPH: What the hell is that for? 
 SERGEANT: Sir, there's a missile!
 SERGEANT: ... Sorry. 
-SLITHEEN 1: That's mine!
-SLITHEEN 2: No, mine!
+SLITHEEN: That's mine!
+SLITHEEN: No, mine!
 SERGEANT: Everybody run!
 HARRIET: Nice knowing you both. 
 HARRIET: Hannibal!
