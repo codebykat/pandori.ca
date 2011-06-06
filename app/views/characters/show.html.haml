@@ -34,4 +34,4 @@
     %ul
       - @character.episodes.each do |ep|
         %li
-          = link_to ep.name, episode_url(ep.id)
+          = link_to ep.name, episode_url(ep.friendly_id)
