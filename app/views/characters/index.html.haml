@@ -1,7 +1,11 @@
-%h2 pandori.ca character dossiers
+.span-16.prepend-4.append-4
 
-- @characters.each do |character|
-  %div
-    = link_to character.name, character_url(character.friendly_id)
+  %h2.title pandori.ca character dossiers
 
+  - @characters.in_groups_of(@characters.count/3) do |group|
+    %div.span-4
+      - group.each do |character|
+        - unless character.nil?
+          = link_to character.name, character_url(character.friendly_id)
+          %br
 

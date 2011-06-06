@@ -1,17 +1,37 @@
-%h2 character dossier: #{@character.name}
+.dossier.span-16.prepend-4.append-4
 
-.character-photos
-  - @character.character_images.each do |photo|
-    = photo.url
+  %h2.title character dossier: #{@character.name}
 
-.dossier-info
-  %strong First Appearance:
-  #{@character.episodes.first.name}
-  (#{@character.episodes.first.airdate})
+  .quoted
+    .text "#{@random_quote.text}"
+    .attrib
+      \-- #{@character.name}, #{@random_quote.episode.name}
 
-.episode-list
-  %strong Episodes (#{@character.episodes.count}):
-  %ul
-    - @character.episodes.each do |ep|
-      %li
-        = ep.name
+  .character-photos
+    - if @character.character_images.empty?
+      No images yet.
+    - @character.character_images.each do |photo|
+      = photo.url
+
+    = form_for @character, :html => {:multipart => true} do |f|
+      %p
+        = f.fields_for @character.character_images.build do |builder|
+          = builder.label :photo, "image"
+          = builder.file_field :photo
+      %p
+        = f.submit 'Upload image'
+
+  .dossier-info
+    %strong First Appearance:
+    #{@character.episodes.first.name}
+    (#{@character.episodes.first.airdate})
+    %br
+    %strong Total Lines:
+    = @character.quotes.count
+
+  .episode-list
+    %strong Episodes (#{@character.episodes.count}):
+    %ul
+      - @character.episodes.each do |ep|
+        %li
+          = link_to ep.name, episode_url(ep.id)

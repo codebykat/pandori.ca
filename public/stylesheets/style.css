@@ -1,0 +1,78 @@
+body {
+  background-color: #395A99 !important;
+  background: url('/images/tardis_wide.jpg') !important;
+  background-size: 90%;
+  color: #fff !important;
+}
+
+h1, h2, h3, a, input {
+  color: #fff !important;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline overline;
+}
+
+a:visited {
+  color: #fff;
+}
+
+.comic a:hover {
+}
+
+.quoted {
+  margin-bottom: 25px;
+  color: #fff;
+  position: relative;
+}
+
+.quoted .text {
+  font-style: italic;
+  font-size: 1.5em;
+}
+
+.quoted .attrib {
+  float: right;
+  font-size: 1.2em;
+}
+
+.quote {
+  position: absolute;
+  bottom: 0;
+}
+
+.panel {
+  background-color: #000;
+  border: 1px white solid;
+  border-right: 0;
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+  color: #fff;
+  position: relative;
+  /*float: left;*/
+}
+
+div.panel-3 {
+  border-right: 1px white solid;
+}
+
+.header {
+  text-align: center;
+  border-bottom: 1px white dashed;
+  margin: 20px auto;
+}
+
+.footer {
+  width: 100%;
+  float: bottom;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}

@@ -1,7 +1,10 @@
-%h2 pandori.ca: episode list
+.span-16.prepend-4.append-4
 
-- @episodes.each do |episode|
-  %div
-    = link_to episode.name, episode_url(episode.id)
-    = episode.airdate
+  %h2.title pandori.ca: episode list
+
+  - @episodes.each do |episode|
+    .span-2
+      = episode.airdate
+    .span-14.last
+      = link_to episode.name, episode_url(episode.id)
 
