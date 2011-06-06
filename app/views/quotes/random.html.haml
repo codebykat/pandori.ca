@@ -1,0 +1,7 @@
+.comic.span-20.append-2.prepend-2
+  - @quotes.each_with_index do |quote, i|
+    - cl = "panel-#{i}"
+    .panel.span-5.last{:class => cl}
+      .quote
+        = link_to quote.character.name, character_url(quote.character.friendly_id)
+        \: #{quote.text}

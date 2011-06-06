@@ -1,11 +1,12 @@
 Pandorica::Application.routes.draw do
   get "quote/index"
 
-  resources :characters
+  resources :characters, :only => [:index, :show, :update]
 
   resources :quotes, :only => [:index, :show]
   resources :episodes, :only => [:index, :show]
 
-  root :to => "quotes#index"
-
+  root :to => "quotes#random"
+  #match ':quotes' => "quotes#random", :quotes => /d{2}/
+  match '(/*quotes)' => "quotes#random", :quotes => /\d+.\d+.\d+.\d+/
 end
