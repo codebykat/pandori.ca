@@ -35,7 +35,8 @@ ADAM: No, I'm just a bit time sick.
 NINTH DOCTOR: Nah, you just need a bit of grub. Oi, mate - how much is a cronk burger? 
 CHEF: Two credits twenty, sweetheart. Now, join the queue. 
 NINTH DOCTOR: Money. We need money. Have to use a cash point. 
-NINTH DOCTOR: There you go - pocket money. Don't spend it all on sweets.  ADAM: How does it work? 
+NINTH DOCTOR: There you go - pocket money. Don't spend it all on sweets.
+ADAM: How does it work? 
 NINTH DOCTOR: Go and find out! Stop nagging me! The thing is, Adam, time travel's like visiting Paris. You can't just read the guide book, you've got to throw yourself in. Eat the food, use the wrong verbs, get charged double and end up kissing complete strangers.
 NINTH DOCTOR: ...or is that just me? Stop asking questions, go on, do it!
 NINTH DOCTOR: Off you go then! Your first date. 
@@ -49,42 +50,43 @@ NINTH DOCTOR: What's Satellite Five?
 CATHICA: Come on, how could you get on board without knowing where you are?
 NINTH DOCTOR: Look at me, I'm stupid. 
 SUKI: Hang on, wait a minute - are you a test? Some sort of management test kind of thing?
-NINTH DOCTOR: You've got me. Well done. You're too clever for me.  SUKI: We were warned about this in basic training. All workers have to be versed in company promotion. 
+NINTH DOCTOR: You've got me. Well done. You're too clever for me.
+SUKI: We were warned about this in basic training. All workers have to be versed in company promotion.
 CATHICA: Right. Fire away, ask your questions. If it gets me to Floor 500 I'll do anything.
 NINTH DOCTOR: Why, what happens on Floor 500?
 CATHICA: The walls are made of gold. And you should know... Mr. Management. So... this is what we do.
-CATHICA: Latest news... sandstorms on the new Venus archipelago. Two hundred dead. Glasgow water riots into their third day... spacelane 37 closed by sunspot activity. And over on the Bad Wolf channel, the Face of Bo has just announced he's pregnant. 
-NINTH DOCTOR: I get it. You broadcast the news. 
-CATHICA: We ARE the news. 
-CATHICA: We're the journalists. We write it, package it and sell it. 
-CATHICA: 600 channels all coming out of Satellite Five, broadcasting everywhere. 
-THE EDITOR: Something... is wrong. Something fictional. 
-THE EDITOR: Those people. 
-CATHICA: Nothing happens in the whole human empire without it going though us. 
-THE EDITOR: Security check. Go deep. 
+CATHICA: Latest news... sandstorms on the new Venus archipelago. Two hundred dead. Glasgow water riots into their third day... spacelane 37 closed by sunspot activity. And over on the Bad Wolf channel, the Face of Bo has just announced he's pregnant.
+NINTH DOCTOR: I get it. You broadcast the news.
+CATHICA: We ARE the news.
+CATHICA: We're the journalists. We write it, package it and sell it.
+CATHICA: 600 channels all coming out of Satellite Five, broadcasting everywhere.
+THE EDITOR: Something... is wrong. Something fictional.
+THE EDITOR: Those people.
+CATHICA: Nothing happens in the whole human empire without it going though us.
+THE EDITOR: Security check. Go deep.
 LOUDSPEAKER: All staff are reminded that the canteen area now has self cleaning tables. Thank you!
-ROSE: Try this. It's called 'zaffic', it's nice. It's like a - um - slush puppy. 
+ROSE: Try this. It's called 'zaffic', it's nice. It's like a - um - slush puppy.
 ADAM: What flavour?
 ROSE: Um... Sort of, beef?
 ADAM: Oh, my God...
-ADAM: It's like everything's gone. Home - family - everything. 
+ADAM: It's like everything's gone. Home - family - everything.
 ROSE: This helps... the Doctor gave it a bit of a top-up. Who's back home, your mum and dad?
-ADAM: Yeah. 
-ROSE: Phone 'em up. 
-ADAM: But that's one hundred and ninety- eight thousand years ago. 
-ROSE: Honestly, try it. Go on! 
+ADAM: Yeah.
+ROSE: Phone 'em up.
+ADAM: But that's one hundred and ninety- eight thousand years ago.
+ROSE: Honestly, try it. Go on!
 ADAM: Is there a code for planet Earth?
-ROSE: Just dial! 
-ANSWERING MACHINE: I'm sorry we're not in. 
-ADAM: It's on! 
-ANSWERING MACHINE: Please leave a message. Thanks, bye! 
-ADAM: Hi. It's... it's me. 
-ADAM: I've sort of gone... traveling. 
-ADAM: I met these people... and we've gone traveling together. But, um... I'm fine... and I'll call you later. Love you. Bye. 
+ROSE: Just dial!
+ANSWERING MACHINE: I'm sorry we're not in.
+ADAM: It's on!
+ANSWERING MACHINE: Please leave a message. Thanks, bye!
+ADAM: Hi. It's... it's me.
+ADAM: I've sort of gone... traveling.
+ADAM: I met these people... and we've gone traveling together. But, um... I'm fine... and I'll call you later. Love you. Bye.
 ADAM: That is just--
-NINTH DOCTOR: Oi! Mutt and Jeff! Over here! 
-COMPUTER: Security check cleared. 
-THE EDITOR: No, something's WRONG. I can taste it. Tiny little shift in the information. Someone down there shouldn't be here. 
+NINTH DOCTOR: Oi! Mutt and Jeff! Over here!
+COMPUTER: Security check cleared.
+THE EDITOR: No, something's WRONG. I can taste it. Tiny little shift in the information. Someone down there shouldn't be here.
 THE EDITOR: Double check. Triple check. Follow them. 
 CATHICA: Now. Everybody behave. We have a management inspection. How do you want it? By the book?
 NINTH DOCTOR: Oh, right from scratch, thanks. 
@@ -118,15 +120,16 @@ THE EDITOR: Intercept and scan. Gotcha. 
 CATHICA: Come off it, Suki, I wasn't even halfway, what was that for? 
 SUKI: Sorry, must've been a glitch... 
 THE EDITOR: Her information's been tampered with. There's a second biography hidden underneath.
-ALIEN: *roar*
+JAGRAFESS: *roar*
 THE EDITOR: Yes, sir? 
-ALIEN: *roar*
+JAGRAFESS: *roar*
 THE EDITOR: Absolutely, sir. Yeah, well - her data was encrypted so there's no way we could've found her sooner.
-ALIEN: *roar*
+JAGRAFESS: *roar*
 THE EDITOR: Yeah. I-- sorry, sir. Absolutely. Get her up here. Now.
 LOUDSPEAKER: Promotion. 
 CATHICA: This is it. Come on. God, make it me. Come on, say my name. 
-CATHICA: Say my name, say my name... LOUDSPEAKER: Promotion for... Suki Macrae Cantrell. 
+CATHICA: Say my name, say my name...
+LOUDSPEAKER: Promotion for... Suki Macrae Cantrell. 
 LOUDSPEAKER: Please proceed to Floor 500. 
 SUKI: I don't believe it... Floor 500...
 CATHICA: How the hell did you manage that? I'm above you! 
@@ -253,7 +256,7 @@ NINTH DOCTOR: Rose, tell her to button it. 
 CATHICA: You can't just vandalise the place, someone's gonna notice! 
 THE EDITOR: I don't understand! We did a full security scan. That man was there when we found Suki Macrae Cantrell. There were no indications about him. And yet here he is... Clearly acting outside the parameters. Fascinating.
 THE EDITOR: Yes, sir. Absolutely. At once. Check him. Double check him. Triple check him. Quadruple. 
-ALIEN: *rumble*
+JAGRAFESS: *rumble*
 CATHICA: This is nothing to do with me, I'm going back to work. 
 NINTH DOCTOR: Go on then! See ya!
 CATHICA: I can't just leave you, can I!
@@ -275,7 +278,8 @@ COMPUTER: He is no- one. 
 THE EDITOR: What, you mean he has a fake ID? 
 COMPUTER: He has no identification. 
 THE EDITOR: But everyone's registered. We have a census for the entire Empire. 
-COMPUTER: He is no-one.  THE EDITOR: What, he doesn't exist? Not anywhere?
+COMPUTER: He is no-one.
+THE EDITOR: What, he doesn't exist? Not anywhere?
 COMPUTER: He is no-one. 
 THE EDITOR: What about the blonde?
 COMPUTER: She is no-one. 
@@ -327,7 +331,7 @@ NINTH DOCTOR: Since that information's keeping us alive, I'm hardly gonna say, a
 THE EDITOR: Well, perhaps my Editor in Chief can convince you otherwise. 
 NINTH DOCTOR: And who's that?
 THE EDITOR: It may interest you to know that this is NOT the Fourth Great and Bountiful Human Empire. In fact, it's not actually human at all. It's merely a place where humans happen to live.
-ALIEN: *roar*
+JAGRAFESS: *roar*
 THE EDITOR: Yeah-- sorry. It's a place where humans are allowed to live by kind permission of my client.
 ROSE: What is that? 
 NINTH DOCTOR: You mean, that thing's in charge of Satellite Five? 
@@ -384,7 +388,7 @@ NINTH DOCTOR: And no-one's gonna stop you. Because you've bred a human race that
 CATHICA: Disengage safety. 
 THE EDITOR: What's happening? 
 CATHICA: Maximum access. Override Floor 139. 
-CATHICA: And… spike!
+CATHICA: And... spike!
 THE EDITOR: Someone's disengaged the safety. 
 THE EDITOR: Who's that?! 
 ROSE: It's Cathica!
@@ -409,11 +413,12 @@ JAGRAFESS: *roar*
 THE EDITOR: Let go of me! Let go of me! 
 NINTH DOCTOR: We're just gonna go. I hate tidying up. Too many questions. You'll manage. 
 CATHICA: You'll have to stay and explain it - no-one's gonna believe me. 
-NINTH DOCTOR: Oh, they might start believing a lot of things now. The Human Race should accelerate. All back to normal. 
+NINTH DOCTOR: Oh, they might start believing a lot of things now. The Human Race should accelerate. All back to normal.
 CATHICA: What about your friend?
 NINTH DOCTOR: He's not my friend. 
 ROSE: Now, don't--
-ADAM: I'm all right now. Much better. I've got the key. Well, it's... I know... It all worked out for the best, didn't it? ADAM: You know, it's not actually my fault, because YOU were in charge--
+ADAM: I'm all right now. Much better. I've got the key. Well, it's... I know... It all worked out for the best, didn't it?
+ADAM: You know, it's not actually my fault, because YOU were in charge--
 ADAM: It's my house! I'm home! Oh, my God, I'm home! 
 ADAM: Blimey. I thought you were going to chuck me out of an airlock. 
 NINTH DOCTOR: Is there something else you want to tell me?

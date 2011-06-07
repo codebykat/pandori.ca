@@ -163,7 +163,9 @@ NINTH DOCTOR: Anybody seen a girl like that?
 NINTH DOCTOR: What've I done wrong?
 NANCY: You took two slices.
 NANCY: No blondes - no flags. Anything else before you leave?
-NINTH DOCTOR: Yeah, there is actually. Thanks for asking. Something I've been looking for, would've fallen from the sky about a month ago, but not a bomb. DOCTOR: Not the usual kind anyway. Wouldn't have exploded. Would've just buried itself in the ground somewhere, and it would've looked something like... DOCTOR: This.
+NINTH DOCTOR: Yeah, there is actually. Thanks for asking. Something I've been looking for, would've fallen from the sky about a month ago, but not a bomb.
+NINTH DOCTOR: Not the usual kind anyway. Wouldn't have exploded. Would've just buried itself in the ground somewhere, and it would've looked something like...
+NINTH DOCTOR: This.
 THE CHILD: Mummy? Are you in there, mummy?
 THE CHILD: Mummy?
 NANCY: Who was the last one in?
@@ -183,7 +185,6 @@ THE CHILD: Muuum-my?
 NANCY: Right, everybody out, across the back garden and under the fence.
 NANCY: Now! Go! Move!
 NANCY: Come on, baby. You've got to go. Okay? It's just like a game. Just like chasing.
-The little girl jumps out of her seat.
 NANCY: Take your coat, go on.
 NANCY: Go!
 THE CHILD: Mummy?
@@ -314,7 +315,8 @@ JACK: It's 1941. The height of the London Blitz. The height of the German Bombin
 JACK: ... armed to the teeth. And I know where it is. Because I parked it.
 JACK: If the Agency can name the right price, I can get it for you. But in two hours, a German bomb is gonna fall on it and destroy it forever. JACK: That's the deadline. That's the deal. And now, shall we discuss payment?
 ROSE: Do you know what I think?
-JACK: What? ROSE: I think you were talking just there...
+JACK: What?
+ROSE: I think you were talking just there...
 JACK: Two hours, the bomb falls. There'll be nothing left but dust and a crater.
 ROSE: Promises, promises...
 JACK: Are you listening to any of this?
@@ -324,7 +326,8 @@ ROSE: I bet you do!
 JACK: So, this companion of yours - does he handle the business?
 ROSE: Well, I delegate a lot of that, yeah.
 JACK: Well, maybe we should go find him.
-ROSE: And how're you gonna do that? JACK: Easy. I'll do a scan for alien tech.
+ROSE: And how're you gonna do that?
+JACK: Easy. I'll do a scan for alien tech.
 ROSE: Finally, a PROFESSIONAL.
 NANCY: The bomb's under that tarpaulin. They put the fence up over night. See that building? The hospital.
 NINTH DOCTOR: What about it?
@@ -336,7 +339,8 @@ NINTH DOCTOR: Why?
 NANCY: 'Cos then maybe you won't wanna get inside.
 NINTH DOCTOR: Where're you going?
 NANCY: There was a lot of food in that house. I've got mouths to feed. Should be safe enough now.
-NINTH DOCTOR: Can I ask you a question? Who did you lose? NANCY: What?
+NINTH DOCTOR: Can I ask you a question? Who did you lose?
+NANCY: What?
 NINTH DOCTOR: The way you look after all those kids. It's 'cos you lost somebody, isn't it? You're doing all this to make up for it.
 NANCY: My little brother. Jamie. One night I went out looking for food. Same night that thing fell. I told him not to follow me - told him it was dangerous, but he just... he just didn't like being on his own.
 NINTH DOCTOR: What happened?
@@ -403,7 +407,8 @@ NINTH DOCTOR: Probably too late.
 DR CONSTANTINE: No. They are isolated cases, but... isolated cases breaking out all over London...
 DR CONSTANTINE: Stay back, stay back. Listen to me... top floor. Room 802, that's where they took the first victim - the one from the crash site. And you must find Nancy again.
 NINTH DOCTOR: Nancy?
-DR CONSTANTINE: It was her brother. She knows more than she's saying. She won't tell me, but she mi-- mi-- DR CONSTANTINE: M... mu... mee...
+DR CONSTANTINE: It was her brother. She knows more than she's saying. She won't tell me, but she mi-- mi--
+DR CONSTANTINE: M... mu... mee...
 DR CONSTANTINE: Are... you... my... mum-my?
 JACK: Hello?
 ROSE: Hello?

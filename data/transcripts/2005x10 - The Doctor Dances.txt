@@ -7,7 +7,7 @@ NINTH DOCTOR: Go to your room!
 NINTH DOCTOR: I mean it! I am very, very angry with you. I am very, VERY cross! Go - to - your - ROOM!
 He points violently in no particular direction, and miraculously, all the gas-mask people turn meekly away.
 NINTH DOCTOR: I'm really glad that worked. Those would've been TERRIBLE last words.
-NANCY: Jamie…
+NANCY: Jamie...
 ROSE: Why are they all wearing gas masks? 
 JACK: They're not. Those masks are flesh and bone. 
 NINTH DOCTOR: How was your con supposed to work?
@@ -241,7 +241,8 @@ NINTH DOCTOR: He's not really a captain, Rose. 
 ROSE: D'you know what I think? I think you're experiencing Captain envy.  
 ROSE: You'll find your feet at the end of your legs. You may care to move them. 
 NINTH DOCTOR: If ever he was a captain, he's been defrocked.
-ROSE: Yeah? Shame I missed that.  JACK: Actually, I quit. Nobody takes my frock.
+ROSE: Yeah? Shame I missed that.
+JACK: Actually, I quit. Nobody takes my frock.
 JACK: Most people notice when they've been teleported. You guys are so sweet. Sorry about the delay. I had to take the nav-com offline to override the teleport security.
 NINTH DOCTOR: You can spend ten minutes overriding your own protocols? Maybe you should remember whose ship it is.
 JACK: Oh, I do. She was GORGEOUS.
@@ -508,7 +509,10 @@ COMPUTER: You're welcome. 
 JACK: Okay then.
 JACK: Think we'd better initiate emergency protocol four-one-seven. 
 COMPUTER: Affirmative.
-JACK: Oo, a little too much vermouth. See if I come here again!  JACK: Funny thing... last time I was sentenced to death, I ordered four hyper-vodkas for my breakfast. All a bit of a blur after that. Woke up in bed with BOTH my executioners. Hmm, lovely couple. They stayed in touch!  JACK: Can't say that about most executioners. JACK: Anyway. Thanks for everything, computer. It's been great.
+JACK: Oo, a little too much vermouth. See if I come here again!
+JACK: Funny thing... last time I was sentenced to death, I ordered four hyper-vodkas for my breakfast. All a bit of a blur after that. Woke up in bed with BOTH my executioners. Hmm, lovely couple. They stayed in touch!
+JACK: Can't say that about most executioners.
+JACK: Anyway. Thanks for everything, computer. It's been great.
 ROSE: Well, hurry up then! 
 ROSE: Right, and turn...
 ROSE: Okay, okay, try and spin me again, but this time - don't get my arm up my back! 
