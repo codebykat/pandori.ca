@@ -1,0 +1,38 @@
+.comic a:hover {
+  text-decoration: none;
+}
+
+.panel {
+  background-color: #000;
+  border: 1px white solid;
+  border-right: 0;
+  width: 190px;
+  height: 190px;
+  background: #000;
+  position: relative;
+  /*float: left;*/
+}
+
+div.panel-3 {
+  border-right: 1px white solid;
+}
+
+.quote-container {
+  position: absolute;
+  bottom: 5px;
+  width: auto;
+}
+
+.quote {
+  background-color: #fff;
+  color: #000;
+  font-family: monospace;
+  font-size: 1.1em;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.quote a, a:visited, a:hover {
+  color: #000;
+}
+

@@ -1,0 +1,15 @@
+.quoted {
+  margin-bottom: 25px;
+  color: #fff;
+  position: relative;
+}
+
+.quoted .text {
+  font-style: italic;
+  font-size: 1.5em;
+}
+
+.quoted .attrib {
+  float: right;
+  font-size: 1.2em;
+}

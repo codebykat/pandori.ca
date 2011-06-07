@@ -1,3 +1,6 @@
+- content_for :head do
+  = stylesheet_link_tag "dossier.css"
+
 .dossier.span-16.prepend-4.append-4
 
   %h2.title character dossier: #{@character.name}
