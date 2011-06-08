@@ -1,5 +1,17 @@
+.comic {
+  text-align: center;
+  width: 765px;
+  margin: 0 auto;
+}
+
 .comic a:hover {
   text-decoration: none;
+}
+
+.under-comic {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 1.2em;
 }
 
 .panel {
@@ -10,7 +22,7 @@
   height: 190px;
   background: #000;
   position: relative;
-  /*float: left;*/
+  float: left;
 }
 
 div.panel-3 {

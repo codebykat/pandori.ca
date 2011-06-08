@@ -1,12 +1,15 @@
 - content_for :head do
   = stylesheet_link_tag "comic.css"
 
-.comic.span-20.append-2.prepend-2
+.comic
   - @quotes.each_with_index do |quote, i|
     - cl = "panel-#{i}"
-    .panel.span-5.last{:class => cl}
+    .panel{:class => cl}
       = link_to character_url(quote.character.friendly_id) do
         = image_tag("/images/missing_small.jpg", :class => "panel-image")
         .quote-container
           %span.quote
             #{quote.character.name}: #{quote.text}
+
+.under-comic.span-16.append-4.prepend-4.last
+  = link_to "permalink", "/" + @quotes.map{|q| q.id}.join('.')

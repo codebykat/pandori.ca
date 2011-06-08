@@ -1,11 +1,12 @@
 .span-16.prepend-4.append-4
 
-  %h2.title pandori.ca character dossiers
+  %h2.title the cast list
 
-  - @characters.in_groups_of(@characters.count/3) do |group|
-    %div.span-4
-      - group.each do |character|
-        - unless character.nil?
-          = link_to character.name, character_url(character.friendly_id)
-          %br
+  .scrolllist
+    - @characters.in_groups_of(@characters.count/3) do |group|
+      %div.span-4
+        - group.each do |character|
+          - unless character.nil?
+            = link_to character.name, character_url(character.friendly_id)
+            %br
 

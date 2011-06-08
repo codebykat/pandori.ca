@@ -1,7 +1,7 @@
 !!!5
 %html
   %head
-    %title pan do ri.ca
+    %title .:pandori.ca:.
     = stylesheet_link_tag "style.css"
     = stylesheet_link_tag "blueprint/screen.css", :media => "screen, projection"
     = stylesheet_link_tag "blueprint/print.css", :media => "print"
@@ -14,22 +14,19 @@
     = csrf_meta_tag
   %body
     .container
-      .span-16.append-4.prepend-4
+      .span-16.append-4.prepend-4.last
         .header
-          %h1 pan do ri ca
+          %h1 .: pandori.ca :.
 
-      .span-16.append-4.prepend-4
+      .span-16.append-4.prepend-4.last
         - flash.each do |name, msg|
           = content_tag :div, msg, :id => "flash_#{name}" if msg.is_a?(String)
 
       = yield
 
-      .footer
-        = link_to "home", root_url
-        |
-        = link_to "characters", characters_url(:id => nil)
-        |
-        = link_to "episodes", episodes_url(:id => nil)
-        - if @quotes
-          |
-          = link_to "permalink", "/" + @quotes.map{|q| q.id}.join('.')
+    .footer
+      = link_to "home", root_url
+      |
+      = link_to "characters", characters_url(:id => nil)
+      |
+      = link_to "episodes", episodes_url(:id => nil)
