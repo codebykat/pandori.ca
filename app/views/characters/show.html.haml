@@ -13,14 +13,18 @@
   .character-photos
     - if @character.character_images.empty?
       No images yet.
-    - @character.character_images.each do |photo|
-      = image_tag photo.photo.url
 
     = form_for @character, :html => {:multipart => true} do |f|
       %p
         = f.fields_for :character_images do |builder|
-          = builder.label :photo, "image"
-          = builder.file_field :photo
+          - if builder.object.new_record?
+            = builder.label :photo, "add image:"
+            = builder.file_field :photo
+          - else
+            = image_tag builder.object.photo.url
+            = check_box_tag("photos_to_delete[#{builder.object.id}]")
+            /= f.hidden_field "delete_photo_#{builder.object.id}", :value => false
+            %br
       %p
         = f.submit 'Upload image'
 

@@ -12,21 +12,17 @@ class CharactersController < ApplicationController
   def update
     @character = Character.find(params[:id])
 
-    #params[:character][:character_images].each do |image|
-    #  img = CharacterImage.create!(image[1])
-    #  @character.character_images << img
-    #end
-    #@character.save!
-
-    #if @character.save!
-    #  flash[:notice] = "successfully updated images"
-    #end
-
-    if @character.update_attributes(params[:character])
+    @character.update_attributes(params[:character])
+    if @character.save!
       flash[:notice] = "successfully updated character."
-    #else
-    #render :action => 'show'
-    redirect_to :action => 'show'
     end
+
+    if params[:photos_to_delete]
+      params[:photos_to_delete].keys.each do |id|
+        @character.character_images.find(id).destroy
+      end
+    end
+
+    redirect_to :action => 'show'
   end
 end
