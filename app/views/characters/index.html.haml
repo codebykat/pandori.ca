@@ -1,3 +1,6 @@
+- content_for :head do
+  = stylesheet_link_tag "characters.css"
+
 .span-16.prepend-4.append-4
 
   %h2.title the cast list
@@ -7,6 +10,10 @@
       %div.span-4
         - group.each do |character|
           - unless character.nil?
-            = link_to character.name, character_url(character.friendly_id)
+            = link_to character_url(character.friendly_id) do
+              - img = character.random_image
+              = image_tag(img.nil? ? "/images/missing_small.jpg" : img.photo.url(:tiny),
+                          :class => "tiny-image")
+              = character.name
             %br
 
