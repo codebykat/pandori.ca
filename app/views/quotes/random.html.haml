@@ -6,10 +6,11 @@
     - cl = "panel-#{i}"
     .panel{:class => cl}
       = link_to character_url(quote.character.friendly_id) do
-        = image_tag("/images/missing_small.jpg", :class => "panel-image")
+        = image_tag(@images[i].nil? ? "/images/missing_small.jpg" : @images[i].photo.url(:small),
+                    :class => "panel-image")
         .quote-container
           %span.quote
-            #{quote.character.name}: #{quote.text}
+            #{quote.text}
 
 .under-comic.span-16.append-4.prepend-4.last
   = link_to "permalink", "/" + @quotes.map{|q| q.id}.join('.')

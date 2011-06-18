@@ -11,7 +11,7 @@
       \-- #{@character.name}, #{@random_quote.episode.name}
 
   .character-photos
-    - if @character.character_images.empty?
+    - if @character.character_images.size == 1
       No images yet.
 
     = form_for @character, :html => {:multipart => true} do |f|
@@ -21,12 +21,12 @@
             = builder.label :photo, "add image:"
             = builder.file_field :photo
           - else
-            = image_tag builder.object.photo.url
+            = image_tag builder.object.photo.url(:small)
             = check_box_tag("photos_to_delete[#{builder.object.id}]")
             /= f.hidden_field "delete_photo_#{builder.object.id}", :value => false
             %br
       %p
-        = f.submit 'Upload image'
+        = f.submit 'save changes'
 
   .dossier-info
     %strong First Appearance:

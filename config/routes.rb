@@ -7,6 +7,5 @@ Pandorica::Application.routes.draw do
   resources :episodes, :only => [:index, :show]
 
   root :to => "quotes#random"
-  #match ':quotes' => "quotes#random", :quotes => /d{2}/
-  match '(/*quotes)' => "quotes#random", :quotes => /\d+.\d+.\d+.\d+/
+  match '(/*quotes)' => "quotes#random", :quotes => /(\d+(-\d+)?\.){3}\d+(-\d+)?/
 end
