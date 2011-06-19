@@ -6,25 +6,34 @@
   %h2.title character dossier: #{@character.name}
 
   .quoted
-    .text "#{@random_quote.text}"
-    .attrib
-      \-- #{@character.name}, #{@random_quote.episode.name}
+    %span.text
+      "#{@random_quote.text}"
+    %span.attrib
+      \-- #{@random_quote.episode.name}
 
   .character-photos
-    - if @character.character_images.size == 1
-      No images yet.
-
     = form_for @character, :html => {:multipart => true} do |f|
-      %p
+      - if @character.character_images.empty?
+        No images yet.
+
+      - else
+        .photobox-outer
+          .photobox{:style => "width:#{201*@character.character_images.size}px;"}
+            - @character.character_images.each do |img|
+              .photobox-image
+                = image_tag img.photo.url(:small)
+                = check_box_tag("photos_to_delete[#{img.id}]")
+                = label_tag "photos_to_delete[#{img.id}]", "delete"
+                /= f.hidden_field "delete_photo_#{img.id}", :value => false
+
+
+      .photobox-new
+        - @character.character_images.build
         = f.fields_for :character_images do |builder|
           - if builder.object.new_record?
             = builder.label :photo, "add image:"
             = builder.file_field :photo
-          - else
-            = image_tag builder.object.photo.url(:small)
-            = check_box_tag("photos_to_delete[#{builder.object.id}]")
-            /= f.hidden_field "delete_photo_#{builder.object.id}", :value => false
-            %br
+
       %p
         = f.submit 'save changes'
 

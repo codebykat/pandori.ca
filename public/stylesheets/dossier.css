@@ -1,7 +1,8 @@
 .quoted {
-  margin-bottom: 25px;
+  margin: 0 50px 25px 50px;
   color: #fff;
   position: relative;
+  width: 500px;
 }
 
 .quoted .text {
@@ -10,6 +11,37 @@
 }
 
 .quoted .attrib {
-  float: right;
+  text-align: center;
   font-size: 1.2em;
+}
+
+.photobox-outer {
+  width: 603px;
+  overflow-x: auto;
+  border: 2px white solid;
+}
+
+.photobox {
+  height: 225px;
+  position: relative;
+}
+
+.photobox-image {
+  width: 190px;
+  padding: 5px 5px 0 5px;
+  height: 200px;
+  float: left;
+  text-align: center;
+}
+
+.photobox-image img {
+  border: 1px #fff solid;
+}
+
+.photobox-new {
+  padding: 10px 0 10px 0;
+}
+
+#character_submit {
+  color: #000 !important;
 }
