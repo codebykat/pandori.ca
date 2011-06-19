@@ -13,4 +13,4 @@
             #{quote.text}
 
 .under-comic.span-16.append-4.prepend-4.last
-  = link_to "permalink", "/" + @quotes.map{|q| q.id}.join('.')
+  = link_to "permalink", "/" + @quotes.map(&:id).zip(@images.map{|i| "-#{i.id}" unless i.nil?}).map{|i| i.join}.join('.')
