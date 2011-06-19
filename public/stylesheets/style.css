@@ -27,9 +27,17 @@ a:visited {
 
 .header {
   text-align: center;
-  border-bottom: 1px white dashed;
+  border-bottom: 2px white dashed;
   margin-bottom: 20px;
   margin-top: 15px;
+}
+
+.header h1 {
+  margin-bottom: 5px;
+}
+
+.header h3 {
+  letter-spacing: 5px;
 }
 
 .footer {
