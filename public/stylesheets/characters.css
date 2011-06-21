@@ -2,3 +2,33 @@
   width: 50px;
   height: 50px;
 }
+
+.character-tiny {
+  position: relative;
+  height: 52px;
+  width: 140px;
+  margin: 10px;
+  /*cursor: pointer;*/
+}
+
+.character-tiny img {
+  float: left;
+  margin-right: 5px;
+  border: 1px #fff solid;
+}
+
+.character-list a:hover {
+  text-decoration: none;
+}
+
+.character-tiny:hover {
+  /* http://stackoverflow.com/questions/806000/css-semi-transparent-background-but-not-text */
+  /* Fallback for web browsers that don't support RGBa */
+  background: rgb(0, 0, 0) transparent;
+  /* RGBa */
+  background-color: rgba(255,255,255, 0.25);
+  /* For IE 5.5 - 7*/
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+  /* For IE 8*/
+  -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+}

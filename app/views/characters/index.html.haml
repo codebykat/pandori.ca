@@ -5,15 +5,15 @@
 
   %h2.title the cast list
 
-  .scrolllist
-    - @characters.in_groups_of(@characters.count/3) do |group|
-      %div.span-4
+  .character-list
+    - @characters.in_groups_of(@characters.count/4) do |group|
+      %div.span-4.last
         - group.each do |character|
           - unless character.nil?
             = link_to character_url(character.friendly_id) do
-              - img = character.random_image
-              = image_tag(img.nil? ? "/images/missing_small.jpg" : img.photo.url(:tiny),
-                          :class => "tiny-image")
-              = character.name
-            %br
+              .character-tiny
+                - img = character.random_image
+                = image_tag(img.nil? ? "/images/missing_small.jpg" : img.photo.url(:tiny),
+                            :class => "tiny-image")
+                = character.name
 
